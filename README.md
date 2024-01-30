@@ -28,5 +28,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 # Usage
 ## Clone the repository:
+```bash
 git clone https://github.com/your-username/bank-customer-churn-analysis.git
-
+```
