@@ -24,8 +24,9 @@ This Python mini-project focuses on analyzing customer churn in a banking contex
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
+```
 
-Usage
-Clone the repository:
+# Usage
+## Clone the repository:
 git clone https://github.com/your-username/bank-customer-churn-analysis.git
 
